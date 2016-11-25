@@ -1,4 +1,4 @@
-from populate import admin, article,book
+from populate import admin, article, book
 
 
 admin.populate()
